@@ -38,5 +38,7 @@ git config --global user.email 你的EMAIL
 ```
 git add .
 git commit -m "這次所執行的變更"
+
+## 推上至Github
 git push origin main
 ```

@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import axios from "axios";
 import { faImage } from "@fortawesome/free-solid-svg-icons"
 import CurrentFileIndicator from "@/components/CurrentFileIndicator";
